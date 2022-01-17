@@ -22,5 +22,6 @@ Link to deployed application: https://kimmy-hill.github.io/Random_Password_Gener
 
 
 Page should look like:
+<img width="1512" alt="Screen Shot 2022-01-16 at 10 17 18 PM" src="https://user-images.githubusercontent.com/95260935/149702851-dc4054f7-d325-47b7-8467-d30f199b382d.png">
 
-<img width="1512" alt="Screen Shot 2022-01-16 at 10 16 03 PM" src="https://user-images.githubusercontent.com/95260935/149702749-474c07b3-17cf-45fc-94b2-402796c3ce28.png">
+
